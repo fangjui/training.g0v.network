@@ -4,7 +4,7 @@ name: "Fang-Jui Chang"
 twitter: "FangJuiChang"
 website: "fangjuichang.com"
 location: "Taiwan"
-role: "Service Designer & Consultant. PDIS"
+role: "Service Designer & Consultant"
 photo: "images/trainer-fang.jpg"
 ---
 
